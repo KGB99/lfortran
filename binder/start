@@ -7,4 +7,4 @@ cmake \
     -DCMAKE_PREFIX_PATH="$CONDA_PREFIX" \
     -DCMAKE_INSTALL_PREFIX="$CONDA_PREFIX" \
     .
-cmake --build . -j4 --target install
+#cmake --build . -j4 --target install
